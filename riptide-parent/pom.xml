@@ -20,7 +20,7 @@
         <jackson.version>2.18.2</jackson.version>
         <jackson-databind.version>2.18.2</jackson-databind.version>
         <junit-jupiter.version>5.12.0</junit-jupiter.version>
-        <logbook.version>3.9.0</logbook.version>
+        <logbook.version>3.11.0</logbook.version>
         <micrometer.version>1.13.6</micrometer.version>
         <mockito.version>5.3.1</mockito.version>
         <problem.version>0.27.1</problem.version>
